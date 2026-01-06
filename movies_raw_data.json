@@ -1,0 +1,3945 @@
+[
+  {
+    "id": 1084242,
+    "title": "Zootopia 2",
+    "release_date": "2025-11-26",
+    "budget": 150000000,
+    "revenue": 560333554,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Mystery"
+    ],
+    "popularity": 577.2135,
+    "vote_average": 7.8,
+    "runtime": 107,
+    "production_companies": [
+      "Walt Disney Animation Studios"
+    ]
+  },
+  {
+    "id": 1419406,
+    "title": "The Shadow's Edge",
+    "release_date": "2025-08-16",
+    "budget": 0,
+    "revenue": 174400000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "popularity": 286.3787,
+    "vote_average": 6.345,
+    "runtime": 142,
+    "production_companies": [
+      "iQIYI Pictures",
+      "Tao Piao Piao",
+      "Hairun Pictures Company",
+      "Dong Fang Chen Xiang"
+    ]
+  },
+  {
+    "id": 1033462,
+    "title": "Bureau 749",
+    "release_date": "2024-10-01",
+    "budget": 0,
+    "revenue": 51706251,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "popularity": 235.4213,
+    "vote_average": 5.913,
+    "runtime": 123,
+    "production_companies": [
+      "\u534e\u6587\u6620\u50cf\u5f71\u89c6\u4f20\u5a92\u6709\u9650\u516c\u53f8",
+      "Huayi Brothers Pictures",
+      "Beijing Culture",
+      "Tencent Penguin Pictures",
+      "\u5317\u4eac\u5f3a\u7535\u4f20\u5a92\u6709\u9650\u516c\u53f8"
+    ]
+  },
+  {
+    "id": 1448560,
+    "title": "Wildcat",
+    "release_date": "2025-11-19",
+    "budget": 50000,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "popularity": 232.0316,
+    "vote_average": 6.4,
+    "runtime": 99,
+    "production_companies": [
+      "Capstone Pictures"
+    ]
+  },
+  {
+    "id": 949709,
+    "title": "High Forces",
+    "release_date": "2024-09-29",
+    "budget": 0,
+    "revenue": 41923655,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "popularity": 247.6237,
+    "vote_average": 6.1,
+    "runtime": 115,
+    "production_companies": [
+      "\u5bf0\u5b87\u5a31\u4e50\u6709\u9650\u516c\u53f8",
+      "Tianjin Maoyan Weiying Culture Media",
+      "\u5e7f\u5dde\u5e02\u82f1\u660e\u6587\u5316\u4f20\u64ad\u6709\u9650\u516c\u53f8",
+      "Tao Piao Piao",
+      "\u534e\u6587\u6620\u50cf\u5f71\u89c6\u4f20\u5a92\u6709\u9650\u516c\u53f8",
+      "Weibo Corporation"
+    ]
+  },
+  {
+    "id": 1309012,
+    "title": "Altered",
+    "release_date": "2025-09-18",
+    "budget": 15000000,
+    "revenue": 346774,
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "popularity": 200.9637,
+    "vote_average": 6.489,
+    "runtime": 85,
+    "production_companies": [
+      "Studio Atlantic",
+      "Art Galaxy",
+      "Splendid Entertainment",
+      "Well Go USA Entertainment"
+    ]
+  },
+  {
+    "id": 1246049,
+    "title": "Dracula",
+    "release_date": "2025-07-30",
+    "budget": 52000000,
+    "revenue": 25788866,
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Romance"
+    ],
+    "popularity": 242.7993,
+    "vote_average": 7.052,
+    "runtime": 130,
+    "production_companies": [
+      "EuropaCorp",
+      "Luc Besson Production",
+      "TF1 Films Production",
+      "SND",
+      "Kinology",
+      "Actarus Productions"
+    ]
+  },
+  {
+    "id": 1196573,
+    "title": "She Rides Shotgun",
+    "release_date": "2025-07-31",
+    "budget": 0,
+    "revenue": 23443,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "popularity": 178.292,
+    "vote_average": 7.151,
+    "runtime": 120,
+    "production_companies": [
+      "Fifth Season",
+      "Makeready",
+      "Super Frog",
+      "Waypoint Entertainment",
+      "Black Bear Pictures"
+    ]
+  },
+  {
+    "id": 1469354,
+    "title": "Border Hunters",
+    "release_date": "2025-10-20",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "popularity": 190.9987,
+    "vote_average": 8.8,
+    "runtime": 82,
+    "production_companies": [
+      "Grandave Capital"
+    ]
+  },
+  {
+    "id": 1363123,
+    "title": "The Family Plan 2",
+    "release_date": "2025-11-11",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "popularity": 171.4991,
+    "vote_average": 6.67,
+    "runtime": 106,
+    "production_companies": [
+      "Skydance Media",
+      "Municipal Pictures"
+    ]
+  },
+  {
+    "id": 967941,
+    "title": "Wicked: For Good",
+    "release_date": "2025-11-19",
+    "budget": 150000000,
+    "revenue": 391000000,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Romance"
+    ],
+    "popularity": 179.3955,
+    "vote_average": 6.773,
+    "runtime": 137,
+    "production_companies": [
+      "Universal Pictures",
+      "Marc Platt Productions",
+      "dentsu"
+    ]
+  },
+  {
+    "id": 1242898,
+    "title": "Predator: Badlands",
+    "release_date": "2025-11-05",
+    "budget": 105000000,
+    "revenue": 174432424,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "popularity": 192.8758,
+    "vote_average": 7.388,
+    "runtime": 107,
+    "production_companies": [
+      "20th Century Studios",
+      "Lawrence Gordon Productions",
+      "Davis Entertainment",
+      "Toberoff Productions",
+      "TSG Entertainment"
+    ]
+  },
+  {
+    "id": 1208561,
+    "title": "Art of Eight Limbs",
+    "release_date": "2024-08-16",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "popularity": 144.6175,
+    "vote_average": 6.484,
+    "runtime": 101,
+    "production_companies": [
+      "McIntosh Films",
+      "Tiger Style Media",
+      "Topanga Venom Media"
+    ]
+  },
+  {
+    "id": 533533,
+    "title": "TRON: Ares",
+    "release_date": "2025-10-08",
+    "budget": 220000000,
+    "revenue": 142073994,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "popularity": 412.9015,
+    "vote_average": 6.396,
+    "runtime": 119,
+    "production_companies": [
+      "Walt Disney Pictures",
+      "Sean Bailey Productions"
+    ]
+  },
+  {
+    "id": 1062722,
+    "title": "Frankenstein",
+    "release_date": "2025-10-17",
+    "budget": 120000000,
+    "revenue": 480678,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "popularity": 149.7549,
+    "vote_average": 7.768,
+    "runtime": 150,
+    "production_companies": [
+      "Double Dare You",
+      "Demilo Films",
+      "Bluegrass 7"
+    ]
+  },
+  {
+    "id": 1180831,
+    "title": "Troll 2",
+    "release_date": "2025-11-30",
+    "budget": 11200000,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "popularity": 423.2374,
+    "vote_average": 7.0,
+    "runtime": 102,
+    "production_companies": [
+      "Motion Blur"
+    ]
+  },
+  {
+    "id": 755898,
+    "title": "War of the Worlds",
+    "release_date": "2025-07-29",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "popularity": 154.7204,
+    "vote_average": 4.293,
+    "runtime": 91,
+    "production_companies": [
+      "Universal Pictures",
+      "Bazelevs",
+      "Patrick Aiello Productions"
+    ]
+  },
+  {
+    "id": 1083637,
+    "title": "Kantara - A Legend: Chapter 1",
+    "release_date": "2025-10-01",
+    "budget": 14000000,
+    "revenue": 91000000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "popularity": 283.9145,
+    "vote_average": 7.4,
+    "runtime": 165,
+    "production_companies": [
+      "Hombale Films"
+    ]
+  },
+  {
+    "id": 1539104,
+    "title": "JUJUTSU KAISEN: Execution -Shibuya Incident x The Culling Game Begins-",
+    "release_date": "2025-11-07",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Action"
+    ],
+    "popularity": 125.7399,
+    "vote_average": 4.8,
+    "runtime": 88,
+    "production_companies": [
+      "MAPPA",
+      "TOHO",
+      "MBS",
+      "Shueisha",
+      "Sumzap"
+    ]
+  },
+  {
+    "id": 269149,
+    "title": "Zootopia",
+    "release_date": "2016-02-11",
+    "budget": 150000000,
+    "revenue": 1025521689,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "popularity": 132.8285,
+    "vote_average": 7.755,
+    "runtime": 109,
+    "production_companies": [
+      "Walt Disney Animation Studios"
+    ]
+  },
+  {
+    "id": 1116465,
+    "title": "A Legend",
+    "release_date": "2024-07-05",
+    "budget": 0,
+    "revenue": 11242056,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "popularity": 108.9248,
+    "vote_average": 6.863,
+    "runtime": 129,
+    "production_companies": [
+      "Bona Film Group",
+      "Just Creative Studio",
+      "Shanghai Lix Entertainment"
+    ]
+  },
+  {
+    "id": 1054867,
+    "title": "One Battle After Another",
+    "release_date": "2025-09-23",
+    "budget": 175000000,
+    "revenue": 202150456,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Action"
+    ],
+    "popularity": 107.5384,
+    "vote_average": 7.5,
+    "runtime": 162,
+    "production_companies": [
+      "Warner Bros. Pictures",
+      "Ghoulardi Film Company",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 1311031,
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "release_date": "2025-07-18",
+    "budget": 20000000,
+    "revenue": 740400000,
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "popularity": 114.6343,
+    "vote_average": 7.602,
+    "runtime": 156,
+    "production_companies": [
+      "ufotable",
+      "Aniplex",
+      "Shueisha"
+    ]
+  },
+  {
+    "id": 701387,
+    "title": "Bugonia",
+    "release_date": "2025-10-23",
+    "budget": 50000000,
+    "revenue": 34817177,
+    "genres": [
+      "Science Fiction",
+      "Crime"
+    ],
+    "popularity": 118.4934,
+    "vote_average": 7.5,
+    "runtime": 119,
+    "production_companies": [
+      "Element Pictures",
+      "Square Peg",
+      "Fremantle",
+      "Pith Quest Films",
+      "Fruit Tree",
+      "CJ ENM"
+    ]
+  },
+  {
+    "id": 203101,
+    "title": "High School of the Dead: Drifters of the Dead",
+    "release_date": "2011-04-25",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Animation",
+      "Adventure",
+      "Horror"
+    ],
+    "popularity": 95.0719,
+    "vote_average": 7.449,
+    "runtime": 18,
+    "production_companies": [
+      "AT-X",
+      "Madhouse"
+    ]
+  },
+  {
+    "id": 425274,
+    "title": "Now You See Me: Now You Don't",
+    "release_date": "2025-11-12",
+    "budget": 90000000,
+    "revenue": 159000154,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
+    "popularity": 103.3534,
+    "vote_average": 6.358,
+    "runtime": 112,
+    "production_companies": [
+      "Lionsgate",
+      "Cohen Pictures",
+      "Media Capital Technologies"
+    ]
+  },
+  {
+    "id": 1130276,
+    "title": "Succubus",
+    "release_date": "2024-10-06",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 91.3733,
+    "vote_average": 8.937,
+    "runtime": 103,
+    "production_companies": [
+      "BondIt Media Capital",
+      "Buffalo 8 Productions",
+      "Kiss and Tale Productions"
+    ]
+  },
+  {
+    "id": 1433719,
+    "title": "High Ground",
+    "release_date": "2025-03-17",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Action"
+    ],
+    "popularity": 82.467,
+    "vote_average": 6.0,
+    "runtime": 92,
+    "production_companies": [
+      "SP Media Group"
+    ]
+  },
+  {
+    "id": 1327862,
+    "title": "Regretting You",
+    "release_date": "2025-10-22",
+    "budget": 30000000,
+    "revenue": 83106420,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "popularity": 88.774,
+    "vote_average": 7.1,
+    "runtime": 116,
+    "production_companies": [
+      "Harbinger Pictures",
+      "Frayed Pages Media",
+      "Domain Entertainment",
+      "Constantin Film",
+      "north.five.six"
+    ]
+  },
+  {
+    "id": 803796,
+    "title": "KPop Demon Hunters",
+    "release_date": "2025-06-20",
+    "budget": 100000000,
+    "revenue": 24619953,
+    "genres": [
+      "Fantasy",
+      "Music",
+      "Comedy",
+      "Animation"
+    ],
+    "popularity": 89.6084,
+    "vote_average": 8.205,
+    "runtime": 96,
+    "production_companies": [
+      "Sony Pictures Animation"
+    ]
+  },
+  {
+    "id": 1248226,
+    "title": "Playdate",
+    "release_date": "2025-11-05",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "popularity": 78.7843,
+    "vote_average": 6.187,
+    "runtime": 93,
+    "production_companies": [
+      "Nickel City Pictures",
+      "Wide Awake Pictures",
+      "A Higher Standard",
+      "Gramercy Park Media",
+      "Arcana Studio",
+      "Industry Entertainment Partners",
+      "Metro-Goldwyn-Mayer",
+      "Amazon MGM Studios"
+    ]
+  },
+  {
+    "id": 1197137,
+    "title": "Black Phone 2",
+    "release_date": "2025-10-15",
+    "budget": 30000000,
+    "revenue": 131585190,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 73.8146,
+    "vote_average": 6.866,
+    "runtime": 114,
+    "production_companies": [
+      "Blumhouse Productions",
+      "Crooked Highway",
+      "Divide / Conquer",
+      "Universal Pictures"
+    ]
+  },
+  {
+    "id": 1218925,
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "release_date": "2025-09-19",
+    "budget": 4100000,
+    "revenue": 168300000,
+    "genres": [
+      "Animation",
+      "Action",
+      "Romance",
+      "Fantasy"
+    ],
+    "popularity": 72.9354,
+    "vote_average": 7.861,
+    "runtime": 100,
+    "production_companies": [
+      "MAPPA"
+    ]
+  },
+  {
+    "id": 1550797,
+    "title": "Prep & Landing: The Snowball Protocol",
+    "release_date": "2025-11-27",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation"
+    ],
+    "popularity": 66.6206,
+    "vote_average": 8.0,
+    "runtime": 22,
+    "production_companies": [
+      "ICON Creative Studio",
+      "Disney Television Animation"
+    ]
+  },
+  {
+    "id": 1218762,
+    "title": "Jingle Bell Heist",
+    "release_date": "2025-11-25",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Crime",
+      "Comedy"
+    ],
+    "popularity": 60.6325,
+    "vote_average": 6.0,
+    "runtime": 96,
+    "production_companies": [
+      "ACE Entertainment",
+      "Tea Shop Productions"
+    ]
+  },
+  {
+    "id": 1522377,
+    "title": "Two Worlds One Wish",
+    "release_date": "2025-11-24",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "popularity": 55.7881,
+    "vote_average": 7.7,
+    "runtime": 118,
+    "production_companies": [
+      "TAFF Pictures"
+    ]
+  },
+  {
+    "id": 1128650,
+    "title": "The Prosecutor",
+    "release_date": "2024-12-08",
+    "budget": 38500000,
+    "revenue": 128093757,
+    "genres": [
+      "Action",
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "popularity": 58.9096,
+    "vote_average": 6.8,
+    "runtime": 117,
+    "production_companies": [
+      "Mandarin Motion Pictures",
+      "China\u2019s Huace Pictures",
+      "Super Bullet Pictures",
+      "AquaProduction"
+    ]
+  },
+  {
+    "id": 1026821,
+    "title": "The Storm",
+    "release_date": "2024-01-12",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "popularity": 55.5681,
+    "vote_average": 6.0,
+    "runtime": 102,
+    "production_companies": [
+      "Horgos Coloroom Pictures",
+      "CHARM ANIMATION"
+    ]
+  },
+  {
+    "id": 617126,
+    "title": "The Fantastic 4: First Steps",
+    "release_date": "2025-07-23",
+    "budget": 200000000,
+    "revenue": 521858728,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "popularity": 58.8014,
+    "vote_average": 7.03,
+    "runtime": 115,
+    "production_companies": [
+      "Marvel Studios",
+      "Kevin Feige Productions"
+    ]
+  },
+  {
+    "id": 1084222,
+    "title": "Operation Blood Hunt",
+    "release_date": "2024-12-12",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "popularity": 52.9832,
+    "vote_average": 6.7,
+    "runtime": 94,
+    "production_companies": [
+      "Hillin Entertainment",
+      "BGG Capital",
+      "Benetone Films"
+    ]
+  },
+  {
+    "id": 1377505,
+    "title": "Spithood",
+    "release_date": "2024-10-25",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 52.7581,
+    "vote_average": 5.2,
+    "runtime": 58,
+    "production_companies": [
+      "Firestick Films",
+      "Hidden Ridge Productions"
+    ]
+  },
+  {
+    "id": 1481331,
+    "title": "Nahual",
+    "release_date": "2025-02-06",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "popularity": 48.9684,
+    "vote_average": 3.2,
+    "runtime": 98,
+    "production_companies": []
+  },
+  {
+    "id": 1244531,
+    "title": "Beast of War",
+    "release_date": "2025-09-18",
+    "budget": 0,
+    "revenue": 186472,
+    "genres": [
+      "Thriller",
+      "Horror",
+      "War",
+      "Action"
+    ],
+    "popularity": 47.906,
+    "vote_average": 6.4,
+    "runtime": 87,
+    "production_companies": [
+      "Bronte Pictures",
+      "Pictures in Paradise"
+    ]
+  },
+  {
+    "id": 402431,
+    "title": "Wicked",
+    "release_date": "2024-11-20",
+    "budget": 150000000,
+    "revenue": 758737211,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Fantasy"
+    ],
+    "popularity": 53.8222,
+    "vote_average": 6.922,
+    "runtime": 162,
+    "production_companies": [
+      "Universal Pictures",
+      "Marc Platt Productions"
+    ]
+  },
+  {
+    "id": 1468417,
+    "title": "First Moon",
+    "release_date": "2025-05-06",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 52.4286,
+    "vote_average": 4.082,
+    "runtime": 97,
+    "production_companies": []
+  },
+  {
+    "id": 1237082,
+    "title": "31 Minutes: One Hot Christmas",
+    "release_date": "2025-11-19",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Music"
+    ],
+    "popularity": 48.4227,
+    "vote_average": 7.435,
+    "runtime": 91,
+    "production_companies": [
+      "Aplaplac",
+      "Amazon MGM Studios"
+    ]
+  },
+  {
+    "id": 7451,
+    "title": "xXx",
+    "release_date": "2002-08-09",
+    "budget": 70000000,
+    "revenue": 277448382,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "popularity": 54.8487,
+    "vote_average": 5.976,
+    "runtime": 124,
+    "production_companies": [
+      "Revolution Studios"
+    ]
+  },
+  {
+    "id": 575265,
+    "title": "Mission: Impossible - The Final Reckoning",
+    "release_date": "2025-05-17",
+    "budget": 400000000,
+    "revenue": 598056261,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "popularity": 56.1677,
+    "vote_average": 7.263,
+    "runtime": 170,
+    "production_companies": [
+      "Paramount Pictures",
+      "Skydance Media",
+      "TC Productions"
+    ]
+  },
+  {
+    "id": 1038392,
+    "title": "The Conjuring: Last Rites",
+    "release_date": "2025-09-03",
+    "budget": 55000000,
+    "revenue": 494399411,
+    "genres": [
+      "Horror"
+    ],
+    "popularity": 52.7546,
+    "vote_average": 6.976,
+    "runtime": 136,
+    "production_companies": [
+      "New Line Cinema",
+      "Atomic Monster",
+      "The Safran Company",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 1426968,
+    "title": "The Gentleman",
+    "release_date": "2025-09-26",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "popularity": 55.7547,
+    "vote_average": 6.9,
+    "runtime": 89,
+    "production_companies": [
+      "SDB Films",
+      "Film Factory",
+      "Esto Tambi\u00e9n Pasar\u00e1",
+      "Glow",
+      "Ya no quedan junglas"
+    ]
+  },
+  {
+    "id": 1223601,
+    "title": "Sisu: Road to Revenge",
+    "release_date": "2025-10-21",
+    "budget": 12200000,
+    "revenue": 5708490,
+    "genres": [
+      "Action",
+      "War"
+    ],
+    "popularity": 51.9684,
+    "vote_average": 7.727,
+    "runtime": 89,
+    "production_companies": [
+      "Cosmic Snowball",
+      "Good Chaos",
+      "Subzero Film Entertainment"
+    ]
+  },
+  {
+    "id": 1228246,
+    "title": "Five Nights at Freddy's 2",
+    "release_date": "2025-12-03",
+    "budget": 51000000,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 52.5765,
+    "vote_average": 8.0,
+    "runtime": 104,
+    "production_companies": [
+      "Blumhouse Productions",
+      "Scott Cawthon Productions"
+    ]
+  },
+  {
+    "id": 1320414,
+    "title": "The Witness",
+    "release_date": "2025-04-04",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 51.6675,
+    "vote_average": 7.667,
+    "runtime": 100,
+    "production_companies": [
+      "ArtHood Films",
+      "Golden Girls Filmproduktion",
+      "Sky Films"
+    ]
+  },
+  {
+    "id": 1296504,
+    "title": "Stand Your Ground",
+    "release_date": "2025-05-09",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "popularity": 43.6995,
+    "vote_average": 4.614,
+    "runtime": 100,
+    "production_companies": [
+      "Highfield Grange Studios",
+      "Daniel Stisen Productions"
+    ]
+  },
+  {
+    "id": 83533,
+    "title": "Avatar: Fire and Ash",
+    "release_date": "2025-12-17",
+    "budget": 250000000,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "popularity": 59.2704,
+    "vote_average": 0.0,
+    "runtime": 192,
+    "production_companies": [
+      "20th Century Studios",
+      "Lightstorm Entertainment",
+      "TSG Entertainment"
+    ]
+  },
+  {
+    "id": 1429520,
+    "title": "Sidelined 2: Intercepted",
+    "release_date": "2025-11-27",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "popularity": 48.5423,
+    "vote_average": 7.375,
+    "runtime": 100,
+    "production_companies": [
+      "Wattpad WEBTOON Studios",
+      "Marshall Arts",
+      "Great Pacific Media",
+      "Thunderbird Entertainment"
+    ]
+  },
+  {
+    "id": 937941,
+    "title": "Shelby Oaks",
+    "release_date": "2025-10-02",
+    "budget": 1400000,
+    "revenue": 2350523,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "popularity": 43.4285,
+    "vote_average": 5.736,
+    "runtime": 91,
+    "production_companies": [
+      "Paper Street Pictures",
+      "Intrepid Pictures",
+      "HLBRK Entertainment",
+      "Title Media"
+    ]
+  },
+  {
+    "id": 1241983,
+    "title": "Train Dreams",
+    "release_date": "2025-11-05",
+    "budget": 10000000,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 43.0609,
+    "vote_average": 7.341,
+    "runtime": 102,
+    "production_companies": [
+      "Kamala Films",
+      "Black Bear Pictures"
+    ]
+  },
+  {
+    "id": 1553730,
+    "title": "Wild Souls",
+    "release_date": "2021-04-01",
+    "budget": 40000,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 22.5257,
+    "vote_average": 6.0,
+    "runtime": 36,
+    "production_companies": [
+      "Copperfish Productions [us]"
+    ]
+  },
+  {
+    "id": 1280518,
+    "title": "Laberinto de sombras",
+    "release_date": "2024-05-10",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "popularity": 41.6557,
+    "vote_average": 5.0,
+    "runtime": 0,
+    "production_companies": []
+  },
+  {
+    "id": 81467,
+    "title": "Laura's Toys",
+    "release_date": "1975-01-01",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 45.0059,
+    "vote_average": 4.824,
+    "runtime": 103,
+    "production_companies": [
+      "High Ground Productions"
+    ]
+  },
+  {
+    "id": 1299655,
+    "title": "Blue Moon",
+    "release_date": "2025-10-17",
+    "budget": 0,
+    "revenue": 1940624,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 38.0569,
+    "vote_average": 6.9,
+    "runtime": 100,
+    "production_companies": [
+      "Detour Filmproduction",
+      "Sony Pictures Classics",
+      "Renovo Media Group",
+      "Wild Atlantic Pictures",
+      "Under the Influence Productions",
+      "Cinetic Media",
+      "Not to Be Seen Productions",
+      "Concord Originals"
+    ]
+  },
+  {
+    "id": 24428,
+    "title": "The Avengers",
+    "release_date": "2012-04-25",
+    "budget": 220000000,
+    "revenue": 1518815515,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "popularity": 45.9289,
+    "vote_average": 7.865,
+    "runtime": 143,
+    "production_companies": [
+      "Marvel Studios"
+    ]
+  },
+  {
+    "id": 1234821,
+    "title": "Jurassic World Rebirth",
+    "release_date": "2025-07-01",
+    "budget": 180000000,
+    "revenue": 868878422,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "popularity": 43.0087,
+    "vote_average": 6.38,
+    "runtime": 134,
+    "production_companies": [
+      "Universal Pictures",
+      "Amblin Entertainment"
+    ]
+  },
+  {
+    "id": 1242419,
+    "title": "Roofman",
+    "release_date": "2025-10-08",
+    "budget": 18000000,
+    "revenue": 28918350,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Crime"
+    ],
+    "popularity": 45.956,
+    "vote_average": 7.25,
+    "runtime": 126,
+    "production_companies": [
+      "Limelight",
+      "High Frequency Entertainment",
+      "51 Entertainment",
+      "Miramax",
+      "Von Waaden Entertainment",
+      "FilmNation Entertainment",
+      "Hunting Lane Films"
+    ]
+  },
+  {
+    "id": 1061474,
+    "title": "Superman",
+    "release_date": "2025-07-09",
+    "budget": 225000000,
+    "revenue": 615800000,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "popularity": 43.6461,
+    "vote_average": 7.4,
+    "runtime": 130,
+    "production_companies": [
+      "DC Studios",
+      "Troll Court Entertainment",
+      "The Safran Company",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 957119,
+    "title": "Sidelined: The QB and Me",
+    "release_date": "2025-02-06",
+    "budget": 0,
+    "revenue": 2,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "popularity": 42.1987,
+    "vote_average": 6.075,
+    "runtime": 99,
+    "production_companies": [
+      "Great Pacific Media",
+      "Thunderbird Entertainment",
+      "Wattpad",
+      "Marshall Arts Studios"
+    ]
+  },
+  {
+    "id": 1010581,
+    "title": "My Fault",
+    "release_date": "2023-06-08",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "popularity": 42.6296,
+    "vote_average": 7.766,
+    "runtime": 117,
+    "production_companies": [
+      "Pokeepsie Films",
+      "Amazon Studios"
+    ]
+  },
+  {
+    "id": 911430,
+    "title": "F1",
+    "release_date": "2025-06-25",
+    "budget": 250000000,
+    "revenue": 626222234,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "popularity": 40.2951,
+    "vote_average": 7.807,
+    "runtime": 156,
+    "production_companies": [
+      "Plan B Entertainment",
+      "Jerry Bruckheimer Films",
+      "Dawn Apollo Films",
+      "Apple Studios",
+      "Monolith Pictures"
+    ]
+  },
+  {
+    "id": 1161617,
+    "title": "Code 3",
+    "release_date": "2025-09-12",
+    "budget": 0,
+    "revenue": 12140,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "popularity": 35.6496,
+    "vote_average": 6.7,
+    "runtime": 100,
+    "production_companies": [
+      "Wayfarer Studios",
+      "Circle of Confusion",
+      "Electro Corduroy Entertainment",
+      "Realdream",
+      "Silver Hearts Productions"
+    ]
+  },
+  {
+    "id": 1511789,
+    "title": "Captain Hook: The Cursed Tides",
+    "release_date": "2025-07-11",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Horror"
+    ],
+    "popularity": 37.4456,
+    "vote_average": 5.05,
+    "runtime": 90,
+    "production_companies": [
+      "R\u00eavasser Films"
+    ]
+  },
+  {
+    "id": 648457,
+    "title": "DEEMO Memorial Keys",
+    "release_date": "2022-02-25",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance",
+      "Mystery",
+      "Fantasy"
+    ],
+    "popularity": 41.3822,
+    "vote_average": 7.5,
+    "runtime": 90,
+    "production_companies": [
+      "Signal.MD",
+      "Production I.G",
+      "Rayark",
+      "Pony Canyon"
+    ]
+  },
+  {
+    "id": 798645,
+    "title": "The Running Man",
+    "release_date": "2025-11-11",
+    "budget": 110000000,
+    "revenue": 60551240,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "popularity": 37.4403,
+    "vote_average": 6.8,
+    "runtime": 133,
+    "production_companies": [
+      "Paramount Pictures",
+      "Complete Fiction",
+      "Genre Films",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 1214140,
+    "title": "Monster Island",
+    "release_date": "2025-05-08",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Action",
+      "Thriller"
+    ],
+    "popularity": 35.9507,
+    "vote_average": 5.848,
+    "runtime": 83,
+    "production_companies": [
+      "Gorylah Pictures",
+      "SC Films International",
+      "Zhao Wei Films",
+      "Tigon Pictures",
+      "Yaman Films",
+      "Splendid Film",
+      "Amasia Entertainment",
+      "Causeway Media Productions",
+      "Onle Pte Ltd",
+      "S'YA Concept"
+    ]
+  },
+  {
+    "id": 1175942,
+    "title": "The Bad Guys 2",
+    "release_date": "2025-07-24",
+    "budget": 80000000,
+    "revenue": 224738330,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Crime",
+      "Adventure",
+      "Animation"
+    ],
+    "popularity": 37.0351,
+    "vote_average": 7.76,
+    "runtime": 104,
+    "production_companies": [
+      "DreamWorks Animation"
+    ]
+  },
+  {
+    "id": 157336,
+    "title": "Interstellar",
+    "release_date": "2014-11-05",
+    "budget": 165000000,
+    "revenue": 746606706,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "popularity": 38.7745,
+    "vote_average": 8.463,
+    "runtime": 169,
+    "production_companies": [
+      "Legendary Pictures",
+      "Syncopy",
+      "Lynda Obst Productions"
+    ]
+  },
+  {
+    "id": 1156594,
+    "title": "Our Fault",
+    "release_date": "2025-10-15",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "popularity": 39.0427,
+    "vote_average": 7.475,
+    "runtime": 112,
+    "production_companies": [
+      "Pokeepsie Films",
+      "Amazon MGM Studios"
+    ]
+  },
+  {
+    "id": 1087192,
+    "title": "How to Train Your Dragon",
+    "release_date": "2025-06-06",
+    "budget": 150000000,
+    "revenue": 635213100,
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "popularity": 37.7023,
+    "vote_average": 7.991,
+    "runtime": 125,
+    "production_companies": [
+      "DreamWorks Animation",
+      "Marc Platt Productions"
+    ]
+  },
+  {
+    "id": 793387,
+    "title": "Holy Night: Demon Hunters",
+    "release_date": "2025-04-30",
+    "budget": 0,
+    "revenue": 6500000,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 33.5339,
+    "vote_average": 6.721,
+    "runtime": 92,
+    "production_companies": [
+      "Big Punch Pictures",
+      "Nova Film"
+    ]
+  },
+  {
+    "id": 278,
+    "title": "The Shawshank Redemption",
+    "release_date": "1994-09-23",
+    "budget": 25000000,
+    "revenue": 28341469,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "popularity": 34.3,
+    "vote_average": 8.713,
+    "runtime": 142,
+    "production_companies": [
+      "Castle Rock Entertainment"
+    ]
+  },
+  {
+    "id": 1025527,
+    "title": "Abyss",
+    "release_date": "2024-12-11",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "popularity": 31.0163,
+    "vote_average": 5.951,
+    "runtime": 95,
+    "production_companies": [
+      "Empreinte Cin\u00e9ma",
+      "SND",
+      "Pictanovo",
+      "R\u00e9gion Hauts-de-France"
+    ]
+  },
+  {
+    "id": 812583,
+    "title": "Wake Up Dead Man: A Knives Out Mystery",
+    "release_date": "2025-11-26",
+    "budget": 210000000,
+    "revenue": 4000000,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Crime"
+    ],
+    "popularity": 36.9773,
+    "vote_average": 7.942,
+    "runtime": 145,
+    "production_companies": [
+      "T-Street"
+    ]
+  },
+  {
+    "id": 62201,
+    "title": "Shahenshah",
+    "release_date": "1988-01-29",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action"
+    ],
+    "popularity": 35.9768,
+    "vote_average": 6.146,
+    "runtime": 180,
+    "production_companies": [
+      "Vision Film"
+    ]
+  },
+  {
+    "id": 1403735,
+    "title": "Laila",
+    "release_date": "2025-02-14",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "popularity": 33.7153,
+    "vote_average": 5.2,
+    "runtime": 134,
+    "production_companies": [
+      "Shine Screens"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Predator",
+    "release_date": "1987-06-12",
+    "budget": 15000000,
+    "revenue": 98267558,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "popularity": 31.7869,
+    "vote_average": 7.541,
+    "runtime": 107,
+    "production_companies": [
+      "20th Century Fox",
+      "Lawrence Gordon Productions",
+      "Silver Pictures",
+      "Davis Entertainment",
+      "Amercent Films",
+      "American Entertainment Partners L.P."
+    ]
+  },
+  {
+    "id": 1429738,
+    "title": "Tee Yai: Born to Be Bad",
+    "release_date": "2025-11-12",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Action",
+      "Drama"
+    ],
+    "popularity": 30.4113,
+    "vote_average": 4.987,
+    "runtime": 117,
+    "production_companies": [
+      "18 Tanwa"
+    ]
+  },
+  {
+    "id": 1053987,
+    "title": "Witchy Ways",
+    "release_date": "2024-09-13",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "popularity": 35.4475,
+    "vote_average": 8.0,
+    "runtime": 98,
+    "production_companies": [
+      "FilmMcQueen",
+      "Prickly Pears Films"
+    ]
+  },
+  {
+    "id": 1007734,
+    "title": "Nobody 2",
+    "release_date": "2025-08-13",
+    "budget": 25000000,
+    "revenue": 38802325,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "popularity": 32.3823,
+    "vote_average": 7.055,
+    "runtime": 89,
+    "production_companies": [
+      "Universal Pictures",
+      "87North Productions",
+      "OPE Partners",
+      "Eighty Two Films"
+    ]
+  },
+  {
+    "id": 639988,
+    "title": "No Other Choice",
+    "release_date": "2025-09-24",
+    "budget": 12200000,
+    "revenue": 20072255,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Comedy"
+    ],
+    "popularity": 31.6827,
+    "vote_average": 7.761,
+    "runtime": 139,
+    "production_companies": [
+      "CJ ENM Studios",
+      "Moho Film",
+      "KG Productions"
+    ]
+  },
+  {
+    "id": 1214130,
+    "title": "Stitch Head",
+    "release_date": "2025-10-16",
+    "budget": 34800000,
+    "revenue": 3455841,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "popularity": 30.0601,
+    "vote_average": 7.1,
+    "runtime": 92,
+    "production_companies": [
+      "GFM Animation",
+      "Rabbits Black",
+      "Aniventure",
+      "GRINGO films GmbH",
+      "Fabrique d'images",
+      "Senator Film",
+      "Traumhaus Studios",
+      "Assemblage Entertainment",
+      "Wild Bunch"
+    ]
+  },
+  {
+    "id": 8871,
+    "title": "How the Grinch Stole Christmas",
+    "release_date": "2000-11-17",
+    "budget": 123000000,
+    "revenue": 345800000,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Fantasy"
+    ],
+    "popularity": 31.7982,
+    "vote_average": 6.778,
+    "runtime": 104,
+    "production_companies": [
+      "Universal Pictures",
+      "Imagine Entertainment",
+      "LUNI Productions",
+      "Dr. Seuss Enterprises"
+    ]
+  },
+  {
+    "id": 1266990,
+    "title": "Kulong",
+    "release_date": "2024-05-24",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 31.8633,
+    "vote_average": 6.0,
+    "runtime": 48,
+    "production_companies": [
+      "Vivamax"
+    ]
+  },
+  {
+    "id": 549319,
+    "title": "Christmas Everlasting",
+    "release_date": "2018-11-24",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama",
+      "TV Movie"
+    ],
+    "popularity": 28.4288,
+    "vote_average": 5.8,
+    "runtime": 84,
+    "production_companies": [
+      "Hallmark Hall of Fame Productions",
+      "Hallmark Media",
+      "Team 2 Entertainment"
+    ]
+  },
+  {
+    "id": 1280450,
+    "title": "Stolen Girl",
+    "release_date": "2025-09-04",
+    "budget": 26000000,
+    "revenue": 92691,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Adventure"
+    ],
+    "popularity": 34.8948,
+    "vote_average": 6.5,
+    "runtime": 110,
+    "production_companies": [
+      "Voltage Pictures",
+      "Vigorous Pictures",
+      "Hangtime International Pictures",
+      "Anjulia Productions",
+      "Braven Films"
+    ]
+  },
+  {
+    "id": 1214931,
+    "title": "Nuremberg",
+    "release_date": "2025-11-06",
+    "budget": 11800000,
+    "revenue": 10962391,
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "popularity": 32.8966,
+    "vote_average": 7.314,
+    "runtime": 148,
+    "production_companies": [
+      "Bluestone Entertainment",
+      "Walden Media",
+      "Filmsquad",
+      "Titan Media",
+      "Mythology Entertainment"
+    ]
+  },
+  {
+    "id": 1284120,
+    "title": "The Ugly Stepsister",
+    "release_date": "2025-03-07",
+    "budget": 4250000,
+    "revenue": 5325096,
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Fantasy",
+      "Drama"
+    ],
+    "popularity": 28.4752,
+    "vote_average": 7.347,
+    "runtime": 109,
+    "production_companies": [
+      "Mer Film",
+      "Lava Films",
+      "MOTOR",
+      "Scanbox Production",
+      "Zentropa International Sweden",
+      "Mediefondet Zefyr",
+      "Film i V\u00e4st"
+    ]
+  },
+  {
+    "id": 1035259,
+    "title": "The Naked Gun",
+    "release_date": "2025-07-30",
+    "budget": 42000000,
+    "revenue": 102147396,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "popularity": 29.9083,
+    "vote_average": 6.5,
+    "runtime": 85,
+    "production_companies": [
+      "Fuzzy Door Productions",
+      "Paramount Pictures",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 1257009,
+    "title": "Primitive War",
+    "release_date": "2025-08-21",
+    "budget": 0,
+    "revenue": 217753,
+    "genres": [
+      "Action",
+      "Horror",
+      "War"
+    ],
+    "popularity": 28.5147,
+    "vote_average": 6.8,
+    "runtime": 133,
+    "production_companies": [
+      "Sparke Films"
+    ]
+  },
+  {
+    "id": 1215106,
+    "title": "Ko Ga Loak Village",
+    "release_date": "2025-11-06",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "popularity": 28.8178,
+    "vote_average": 3.8,
+    "runtime": 99,
+    "production_companies": [
+      "M Studio",
+      "Film Guru",
+      "Mono Film"
+    ]
+  },
+  {
+    "id": 1134278,
+    "title": "Pacific Fear",
+    "release_date": "2024-07-11",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 27.998,
+    "vote_average": 4.486,
+    "runtime": 89,
+    "production_companies": [
+      "Darklight Content",
+      "Nolita"
+    ]
+  },
+  {
+    "id": 1142101,
+    "title": "ClearMind",
+    "release_date": "2024-02-03",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Thriller"
+    ],
+    "popularity": 26.3474,
+    "vote_average": 5.167,
+    "runtime": 85,
+    "production_companies": []
+  },
+  {
+    "id": 507244,
+    "title": "Afterburn",
+    "release_date": "2025-08-20",
+    "budget": 60000000,
+    "revenue": 184758,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Comedy"
+    ],
+    "popularity": 27.8866,
+    "vote_average": 6.831,
+    "runtime": 105,
+    "production_companies": [
+      "Endurance Media",
+      "G-BASE",
+      "Original Film",
+      "CAA Media Finance"
+    ]
+  },
+  {
+    "id": 1029575,
+    "title": "The Family Plan",
+    "release_date": "2023-12-14",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "popularity": 27.0433,
+    "vote_average": 7.249,
+    "runtime": 118,
+    "production_companies": [
+      "Municipal Pictures",
+      "Skydance Media"
+    ]
+  },
+  {
+    "id": 1022787,
+    "title": "Elio",
+    "release_date": "2025-06-18",
+    "budget": 150000000,
+    "revenue": 153797125,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Science Fiction"
+    ],
+    "popularity": 29.963,
+    "vote_average": 6.977,
+    "runtime": 98,
+    "production_companies": [
+      "Pixar"
+    ]
+  },
+  {
+    "id": 1010756,
+    "title": "The Strangers: Chapter 2",
+    "release_date": "2025-09-25",
+    "budget": 8000000,
+    "revenue": 21855027,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 29.5423,
+    "vote_average": 6.094,
+    "runtime": 98,
+    "production_companies": [
+      "Lionsgate",
+      "Fifth Element Productions",
+      "Sherbone Media",
+      "Lipsync Productions",
+      "Stream Media"
+    ]
+  },
+  {
+    "id": 1305717,
+    "title": "Hunting Grounds",
+    "release_date": "2025-05-16",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "popularity": 27.3937,
+    "vote_average": 6.667,
+    "runtime": 89,
+    "production_companies": [
+      "Kemodo Entertainment",
+      "High Star Entertainment"
+    ]
+  },
+  {
+    "id": 552524,
+    "title": "Lilo & Stitch",
+    "release_date": "2025-05-17",
+    "budget": 100000000,
+    "revenue": 1037247842,
+    "genres": [
+      "Family",
+      "Science Fiction",
+      "Comedy",
+      "Adventure"
+    ],
+    "popularity": 29.3513,
+    "vote_average": 7.255,
+    "runtime": 108,
+    "production_companies": [
+      "Walt Disney Pictures",
+      "Rideback"
+    ]
+  },
+  {
+    "id": 1291040,
+    "title": "Mrs. Christmas",
+    "release_date": "2025-11-26",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "popularity": 30.861,
+    "vote_average": 7.0,
+    "runtime": 116,
+    "production_companies": [
+      "Gaumont Italia",
+      "Amazon MGM Studios"
+    ]
+  },
+  {
+    "id": 372058,
+    "title": "Your Name.",
+    "release_date": "2016-08-26",
+    "budget": 0,
+    "revenue": 358000000,
+    "genres": [
+      "Animation",
+      "Romance",
+      "Drama"
+    ],
+    "popularity": 29.0331,
+    "vote_average": 8.48,
+    "runtime": 106,
+    "production_companies": [
+      "CoMix Wave Films",
+      "TOHO",
+      "KADOKAWA",
+      "jeki",
+      "AMUSE",
+      "voque ting",
+      "Lawson Entertainment"
+    ]
+  },
+  {
+    "id": 474350,
+    "title": "It Chapter Two",
+    "release_date": "2019-09-04",
+    "budget": 79000000,
+    "revenue": 473123154,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 28.6303,
+    "vote_average": 6.838,
+    "runtime": 169,
+    "production_companies": [
+      "New Line Cinema",
+      "Vertigo Entertainment",
+      "Double Dream",
+      "Rideback"
+    ]
+  },
+  {
+    "id": 1316147,
+    "title": "Grand Prix of Europe",
+    "release_date": "2025-07-24",
+    "budget": 0,
+    "revenue": 2917068,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "popularity": 26.3806,
+    "vote_average": 7.3,
+    "runtime": 98,
+    "production_companies": [
+      "Mack Media",
+      "Mack Animation",
+      "MACK Magic",
+      "Timeless Films",
+      "Warner Bros. Film Productions Germany"
+    ]
+  },
+  {
+    "id": 1219158,
+    "title": "Lover",
+    "release_date": "2024-02-07",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "popularity": 29.6893,
+    "vote_average": 7.286,
+    "runtime": 145,
+    "production_companies": [
+      "Million Dollar Studios",
+      "MRP Entertainement"
+    ]
+  },
+  {
+    "id": 597,
+    "title": "Titanic",
+    "release_date": "1997-11-18",
+    "budget": 200000000,
+    "revenue": 2264162353,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "popularity": 28.5469,
+    "vote_average": 7.903,
+    "runtime": 194,
+    "production_companies": [
+      "Paramount Pictures",
+      "20th Century Fox",
+      "Lightstorm Entertainment"
+    ]
+  },
+  {
+    "id": 861451,
+    "title": "Martin",
+    "release_date": "2024-10-11",
+    "budget": 17647000,
+    "revenue": 3247000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "popularity": 26.2517,
+    "vote_average": 4.058,
+    "runtime": 147,
+    "production_companies": [
+      "Uday K Mehta Productions",
+      "Vasavi Enterprises"
+    ]
+  },
+  {
+    "id": 541671,
+    "title": "Ballerina",
+    "release_date": "2025-06-04",
+    "budget": 90000000,
+    "revenue": 137258395,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "popularity": 27.3515,
+    "vote_average": 7.32,
+    "runtime": 125,
+    "production_companies": [
+      "Thunder Road",
+      "87Eleven",
+      "Lionsgate"
+    ]
+  },
+  {
+    "id": 604079,
+    "title": "The Long Walk",
+    "release_date": "2025-09-10",
+    "budget": 20000000,
+    "revenue": 54054069,
+    "genres": [
+      "Thriller",
+      "Science Fiction",
+      "Horror"
+    ],
+    "popularity": 27.2018,
+    "vote_average": 6.943,
+    "runtime": 108,
+    "production_companies": [
+      "Lionsgate",
+      "about:blank",
+      "Vertigo Entertainment",
+      "Media Capital Technologies"
+    ]
+  },
+  {
+    "id": 1022789,
+    "title": "Inside Out 2",
+    "release_date": "2024-06-11",
+    "budget": 200000000,
+    "revenue": 1698863816,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "popularity": 27.1524,
+    "vote_average": 7.55,
+    "runtime": 97,
+    "production_companies": [
+      "Pixar"
+    ]
+  },
+  {
+    "id": 950387,
+    "title": "A Minecraft Movie",
+    "release_date": "2025-03-31",
+    "budget": 150000000,
+    "revenue": 957949195,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure",
+      "Action"
+    ],
+    "popularity": 29.196,
+    "vote_average": 6.347,
+    "runtime": 101,
+    "production_companies": [
+      "Warner Bros. Pictures",
+      "Legendary Pictures",
+      "Mojang Studios",
+      "Vertigo Entertainment",
+      "On the Roam",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 346364,
+    "title": "It",
+    "release_date": "2017-09-06",
+    "budget": 35000000,
+    "revenue": 704242888,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 27.3071,
+    "vote_average": 7.238,
+    "runtime": 135,
+    "production_companies": [
+      "New Line Cinema",
+      "Vertigo Entertainment",
+      "Lin Pictures",
+      "KatzSmith Productions"
+    ]
+  },
+  {
+    "id": 1451296,
+    "title": "One X Two",
+    "release_date": "2025-08-08",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "popularity": 29.7525,
+    "vote_average": 6.0,
+    "runtime": 87,
+    "production_companies": [
+      "Garajonay Producciones",
+      "Buend\u00eda Estudios"
+    ]
+  },
+  {
+    "id": 338969,
+    "title": "The Toxic Avenger Unrated",
+    "release_date": "2025-08-28",
+    "budget": 0,
+    "revenue": 3328938,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "popularity": 26.7546,
+    "vote_average": 6.153,
+    "runtime": 102,
+    "production_companies": [
+      "Legendary Pictures",
+      "Troma Entertainment"
+    ]
+  },
+  {
+    "id": 980477,
+    "title": "Ne Zha 2",
+    "release_date": "2025-01-29",
+    "budget": 80000000,
+    "revenue": 2150000000,
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Adventure",
+      "Action"
+    ],
+    "popularity": 27.9553,
+    "vote_average": 8.029,
+    "runtime": 144,
+    "production_companies": [
+      "Chengdu Coco Cartoon",
+      "Beijing Enlight Pictures",
+      "Beijing Enlight Media",
+      "Chengdu Zizai Jingjie Culture Media",
+      "Beijing Coloroom Technology"
+    ]
+  },
+  {
+    "id": 76600,
+    "title": "Avatar: The Way of Water",
+    "release_date": "2022-12-14",
+    "budget": 350000000,
+    "revenue": 2330224914,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "popularity": 28.5891,
+    "vote_average": 7.609,
+    "runtime": 192,
+    "production_companies": [
+      "20th Century Studios",
+      "Lightstorm Entertainment",
+      "TSG Entertainment"
+    ]
+  },
+  {
+    "id": 1265063,
+    "title": "After the Hunt",
+    "release_date": "2025-10-09",
+    "budget": 80000000,
+    "revenue": 9299531,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 25.5727,
+    "vote_average": 5.891,
+    "runtime": 139,
+    "production_companies": [
+      "Frenesy Film",
+      "Imagine Entertainment",
+      "Big Indie Pictures",
+      "Amazon MGM Studios"
+    ]
+  },
+  {
+    "id": 671,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "release_date": "2001-11-16",
+    "budget": 125000000,
+    "revenue": 976475550,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "popularity": 25.4821,
+    "vote_average": 7.9,
+    "runtime": 152,
+    "production_companies": [
+      "Warner Bros. Pictures",
+      "Heyday Films",
+      "1492 Pictures"
+    ]
+  },
+  {
+    "id": 1241982,
+    "title": "Moana 2",
+    "release_date": "2024-11-21",
+    "budget": 150000000,
+    "revenue": 1059242164,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "popularity": 26.7439,
+    "vote_average": 7.026,
+    "runtime": 100,
+    "production_companies": [
+      "Walt Disney Animation Studios",
+      "Walt Disney Animation Studios"
+    ]
+  },
+  {
+    "id": 1009640,
+    "title": "Valiant One",
+    "release_date": "2025-01-30",
+    "budget": 10000000,
+    "revenue": 1236630,
+    "genres": [
+      "War",
+      "Thriller",
+      "Action"
+    ],
+    "popularity": 23.8096,
+    "vote_average": 6.841,
+    "runtime": 86,
+    "production_companies": [
+      "Monarch Media",
+      "Goldmann Pictures",
+      "Brightlight Pictures"
+    ]
+  },
+  {
+    "id": 1475189,
+    "title": "Family Disaster",
+    "release_date": "2025-09-25",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Family"
+    ],
+    "popularity": 27.5058,
+    "vote_average": 7.0,
+    "runtime": 0,
+    "production_companies": [
+      "No Dancing Today"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "The Dark Knight",
+    "release_date": "2008-07-16",
+    "budget": 185000000,
+    "revenue": 1004558444,
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "popularity": 25.3668,
+    "vote_average": 8.525,
+    "runtime": 152,
+    "production_companies": [
+      "Warner Bros. Pictures",
+      "Legendary Pictures",
+      "Syncopy",
+      "DC"
+    ]
+  },
+  {
+    "id": 1287571,
+    "title": "Agak Laen: Menyala Pantiku!",
+    "release_date": "2025-11-27",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "popularity": 25.3243,
+    "vote_average": 8.5,
+    "runtime": 119,
+    "production_companies": [
+      "Imajinari",
+      "Jagartha",
+      "Trinity Entertainment Network",
+      "Legacy Pictures",
+      "Navvaros",
+      "A&Z Films",
+      "Agak Laen"
+    ]
+  },
+  {
+    "id": 1238379,
+    "title": "The Best You Can",
+    "release_date": "2025-06-07",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "popularity": 27.353,
+    "vote_average": 6.8,
+    "runtime": 103,
+    "production_companies": [
+      "Fibonacci Films"
+    ]
+  },
+  {
+    "id": 18190,
+    "title": "Dream Lover",
+    "release_date": "1994-11-11",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "popularity": 20.5829,
+    "vote_average": 6.185,
+    "runtime": 103,
+    "production_companies": [
+      "Propaganda Films",
+      "PolyGram Filmed Entertainment"
+    ]
+  },
+  {
+    "id": 533535,
+    "title": "Deadpool & Wolverine",
+    "release_date": "2024-07-24",
+    "budget": 200000000,
+    "revenue": 1338073645,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "popularity": 24.3795,
+    "vote_average": 7.569,
+    "runtime": 128,
+    "production_companies": [
+      "Marvel Studios",
+      "Maximum Effort",
+      "21 Laps Entertainment",
+      "20th Century Studios",
+      "Kevin Feige Productions",
+      "TSG Entertainment"
+    ]
+  },
+  {
+    "id": 772,
+    "title": "Home Alone 2: Lost in New York",
+    "release_date": "1992-11-15",
+    "budget": 18000000,
+    "revenue": 358994850,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "popularity": 25.1257,
+    "vote_average": 6.8,
+    "runtime": 120,
+    "production_companies": [
+      "20th Century Fox",
+      "Hughes Entertainment"
+    ]
+  },
+  {
+    "id": 66245,
+    "title": "Arunachalam",
+    "release_date": "1997-04-10",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama",
+      "Comedy"
+    ],
+    "popularity": 26.5573,
+    "vote_average": 7.3,
+    "runtime": 165,
+    "production_companies": [
+      "Annamalai Cine Combines"
+    ]
+  },
+  {
+    "id": 1186350,
+    "title": "Marco",
+    "release_date": "2024-12-20",
+    "budget": 3467000,
+    "revenue": 11559000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "popularity": 23.9453,
+    "vote_average": 6.597,
+    "runtime": 145,
+    "production_companies": [
+      "Cubes Entertainments"
+    ]
+  },
+  {
+    "id": 1229910,
+    "title": "Kryptic",
+    "release_date": "2025-06-09",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Drama"
+    ],
+    "popularity": 22.3744,
+    "vote_average": 5.0,
+    "runtime": 96,
+    "production_companies": [
+      "Z56film",
+      "The Garden Productions",
+      "Goodbye Productions"
+    ]
+  },
+  {
+    "id": 1107216,
+    "title": "Pets on a Train",
+    "release_date": "2025-07-02",
+    "budget": 0,
+    "revenue": 3082436,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Thriller"
+    ],
+    "popularity": 23.8341,
+    "vote_average": 6.9,
+    "runtime": 87,
+    "production_companies": [
+      "TAT Productions",
+      "Apollo Films",
+      "France T\u00e9l\u00e9visions",
+      "France 3 Cin\u00e9ma",
+      "Cine+ OCS",
+      "CNC",
+      "OCS",
+      "Canal+",
+      "Procirep-Angoa",
+      "Sacem",
+      "Cin\u00e9mage 18",
+      "Kinology"
+    ]
+  },
+  {
+    "id": 1117857,
+    "title": "In Your Dreams",
+    "release_date": "2025-11-07",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "popularity": 23.8264,
+    "vote_average": 7.087,
+    "runtime": 87,
+    "production_companies": [
+      "Kuku Studios",
+      "Netflix Animation Studios"
+    ]
+  },
+  {
+    "id": 27205,
+    "title": "Inception",
+    "release_date": "2010-07-15",
+    "budget": 160000000,
+    "revenue": 839030630,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "popularity": 24.1752,
+    "vote_average": 8.371,
+    "runtime": 148,
+    "production_companies": [
+      "Legendary Pictures",
+      "Syncopy",
+      "Warner Bros. Pictures"
+    ]
+  },
+  {
+    "id": 845781,
+    "title": "Red One",
+    "release_date": "2024-10-31",
+    "budget": 250000000,
+    "revenue": 185700759,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "popularity": 24.5182,
+    "vote_average": 7.0,
+    "runtime": 124,
+    "production_companies": [
+      "Seven Bucks Productions",
+      "The Detective Agency",
+      "Chris Morgan Productions",
+      "Amazon MGM Studios"
+    ]
+  },
+  {
+    "id": 999075,
+    "title": "Left-Handed Girl",
+    "release_date": "2025-09-17",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 23.5774,
+    "vote_average": 7.6,
+    "runtime": 109,
+    "production_companies": [
+      "LHG Films",
+      "Le Pacte",
+      "Cinema Inutile",
+      "Filmic",
+      "Through the Lens Entertainment",
+      "Good Chaos",
+      "Left-Handed Girl Film Productions"
+    ]
+  },
+  {
+    "id": 507089,
+    "title": "Five Nights at Freddy's",
+    "release_date": "2023-10-25",
+    "budget": 20000000,
+    "revenue": 297144130,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 25.6425,
+    "vote_average": 7.4,
+    "runtime": 110,
+    "production_companies": [
+      "Blumhouse Productions",
+      "Scott Cawthon Productions"
+    ]
+  },
+  {
+    "id": 19995,
+    "title": "Avatar",
+    "release_date": "2009-12-15",
+    "budget": 237000000,
+    "revenue": 2923706026,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "popularity": 26.7105,
+    "vote_average": 7.594,
+    "runtime": 162,
+    "production_companies": [
+      "Dune Entertainment",
+      "Lightstorm Entertainment",
+      "20th Century Fox",
+      "Ingenious Film Partners"
+    ]
+  },
+  {
+    "id": 941109,
+    "title": "Play Dirty",
+    "release_date": "2025-09-30",
+    "budget": 2500000,
+    "revenue": 0,
+    "genres": [
+      "Crime"
+    ],
+    "popularity": 23.3991,
+    "vote_average": 6.625,
+    "runtime": 125,
+    "production_companies": [
+      "Team Downey",
+      "Amazon MGM Studios"
+    ]
+  },
+  {
+    "id": 1096563,
+    "title": "End of Loyalty",
+    "release_date": "2023-03-07",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Action"
+    ],
+    "popularity": 21.1134,
+    "vote_average": 5.4,
+    "runtime": 90,
+    "production_companies": []
+  },
+  {
+    "id": 238,
+    "title": "The Godfather",
+    "release_date": "1972-03-14",
+    "budget": 6000000,
+    "revenue": 245066411,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "popularity": 25.5233,
+    "vote_average": 8.684,
+    "runtime": 175,
+    "production_companies": [
+      "Paramount Pictures",
+      "Alfran Productions"
+    ]
+  },
+  {
+    "id": 736526,
+    "title": "Troll",
+    "release_date": "2022-11-30",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "popularity": 37.2603,
+    "vote_average": 6.585,
+    "runtime": 104,
+    "production_companies": [
+      "Motion Blur"
+    ]
+  },
+  {
+    "id": 1072699,
+    "title": "Inside Furioza",
+    "release_date": "2025-10-14",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "popularity": 22.3035,
+    "vote_average": 6.537,
+    "runtime": 166,
+    "production_companies": [
+      "2 Hungry Crocodiles"
+    ]
+  },
+  {
+    "id": 1323475,
+    "title": "Champagne Problems",
+    "release_date": "2025-11-18",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "popularity": 19.5368,
+    "vote_average": 6.2,
+    "runtime": 99,
+    "production_companies": [
+      "Off Camera Entertainment",
+      "Grumpy Entertainment",
+      "FullDawa Films"
+    ]
+  },
+  {
+    "id": 574475,
+    "title": "Final Destination Bloodlines",
+    "release_date": "2025-05-14",
+    "budget": 50000000,
+    "revenue": 315630814,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "popularity": 22.9735,
+    "vote_average": 7.109,
+    "runtime": 110,
+    "production_companies": [
+      "New Line Cinema",
+      "Practical Pictures",
+      "Freshman Year",
+      "Fireside Films",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 455240,
+    "title": "Nerve",
+    "release_date": "2011-12-07",
+    "budget": 27500,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "popularity": 20.365,
+    "vote_average": 6.9,
+    "runtime": 83,
+    "production_companies": []
+  },
+  {
+    "id": 1517874,
+    "title": "November",
+    "release_date": "2025-10-02",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 19.7331,
+    "vote_average": 0.0,
+    "runtime": 78,
+    "production_companies": [
+      "Piano",
+      "Vulcana Cinema",
+      "Madlove",
+      "Burning"
+    ]
+  },
+  {
+    "id": 1280282,
+    "title": "Gabby's Dollhouse: The Movie",
+    "release_date": "2025-09-13",
+    "budget": 32000000,
+    "revenue": 67600000,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "popularity": 21.7082,
+    "vote_average": 6.7,
+    "runtime": 98,
+    "production_companies": [
+      "DreamWorks Animation"
+    ]
+  },
+  {
+    "id": 1241742,
+    "title": "EKS",
+    "release_date": "2024-03-01",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 22.9902,
+    "vote_average": 3.2,
+    "runtime": 119,
+    "production_companies": [
+      "Vivamax"
+    ]
+  },
+  {
+    "id": 1149535,
+    "title": "Isaac Littlefeathers",
+    "release_date": "1984-12-07",
+    "budget": 1700000,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 19.1988,
+    "vote_average": 0.0,
+    "runtime": 100,
+    "production_companies": [
+      "Lauron International"
+    ]
+  },
+  {
+    "id": 539972,
+    "title": "Kraven the Hunter",
+    "release_date": "2024-12-11",
+    "budget": 130000000,
+    "revenue": 62076533,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "popularity": 20.711,
+    "vote_average": 6.469,
+    "runtime": 127,
+    "production_companies": [
+      "Columbia Pictures",
+      "Matt Tolmach Productions",
+      "Arad Productions"
+    ]
+  },
+  {
+    "id": 1376434,
+    "title": "Predator: Killer of Killers",
+    "release_date": "2025-06-05",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "popularity": 21.8654,
+    "vote_average": 7.87,
+    "runtime": 85,
+    "production_companies": [
+      "20th Century Studios",
+      "Davis Entertainment",
+      "Lawrence Gordon Productions",
+      "Toberoff Productions"
+    ]
+  },
+  {
+    "id": 1197306,
+    "title": "A Working Man",
+    "release_date": "2025-03-26",
+    "budget": 40000000,
+    "revenue": 99068160,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "popularity": 23.3457,
+    "vote_average": 6.707,
+    "runtime": 116,
+    "production_companies": [
+      "Cedar Park Entertainment",
+      "BlockFilm",
+      "Punch Palace Productions",
+      "Balboa Productions",
+      "Black Bear Pictures",
+      "Fifth Season",
+      "CAT5"
+    ]
+  },
+  {
+    "id": 1119878,
+    "title": "Ice Road: Vengeance",
+    "release_date": "2025-06-27",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "popularity": 22.6562,
+    "vote_average": 6.307,
+    "runtime": 113,
+    "production_companies": [
+      "Code Entertainment",
+      "Shivhans Pictures",
+      "Envision Media Arts",
+      "The Solution"
+    ]
+  },
+  {
+    "id": 939243,
+    "title": "Sonic the Hedgehog 3",
+    "release_date": "2024-12-19",
+    "budget": 122000000,
+    "revenue": 492162604,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Comedy",
+      "Family"
+    ],
+    "popularity": 22.8152,
+    "vote_average": 7.642,
+    "runtime": 110,
+    "production_companies": [
+      "Paramount Pictures",
+      "Original Film",
+      "Marza Animation Planet",
+      "SEGA",
+      "Blur Studio",
+      "SEGA of America"
+    ]
+  },
+  {
+    "id": 1125257,
+    "title": "Freakier Friday",
+    "release_date": "2025-08-06",
+    "budget": 42000000,
+    "revenue": 152889065,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Family"
+    ],
+    "popularity": 20.8149,
+    "vote_average": 6.886,
+    "runtime": 110,
+    "production_companies": [
+      "Walt Disney Pictures",
+      "Burr! Productions",
+      "Gunn Films"
+    ]
+  },
+  {
+    "id": 749170,
+    "title": "Heads of State",
+    "release_date": "2025-06-24",
+    "budget": 100,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Comedy"
+    ],
+    "popularity": 20.0349,
+    "vote_average": 6.866,
+    "runtime": 117,
+    "production_companies": [
+      "The Safran Company",
+      "Big Indie Pictures",
+      "Amazon MGM Studios",
+      "Potboiler Productions"
+    ]
+  },
+  {
+    "id": 41515,
+    "title": "Yogi Bear",
+    "release_date": "2010-12-17",
+    "budget": 80000000,
+    "revenue": 203509374,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation",
+      "Adventure"
+    ],
+    "popularity": 37.8434,
+    "vote_average": 5.6,
+    "runtime": 80,
+    "production_companies": [
+      "Sunswept Entertainment",
+      "De Line Pictures",
+      "Rhythm and Hues",
+      "Picnic Basket",
+      "Warner Bros. Pictures"
+    ]
+  },
+  {
+    "id": 1078605,
+    "title": "Weapons",
+    "release_date": "2025-08-04",
+    "budget": 38000000,
+    "revenue": 265894217,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "popularity": 22.7381,
+    "vote_average": 7.317,
+    "runtime": 129,
+    "production_companies": [
+      "New Line Cinema",
+      "Subconscious",
+      "Vertigo Entertainment",
+      "BoulderLight Pictures",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "release_date": "2001-12-18",
+    "budget": 93000000,
+    "revenue": 871368364,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "popularity": 22.2574,
+    "vote_average": 8.426,
+    "runtime": 179,
+    "production_companies": [
+      "New Line Cinema",
+      "WingNut Films",
+      "The Saul Zaentz Company"
+    ]
+  },
+  {
+    "id": 1425122,
+    "title": "A Very Jonas Christmas Movie",
+    "release_date": "2025-11-10",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "popularity": 20.9665,
+    "vote_average": 6.455,
+    "runtime": 78,
+    "production_companies": [
+      "20th Television",
+      "Copper Cup Entertainment",
+      "The Walk-Up Company",
+      "Temple Hill Entertainment",
+      "Fishbach Productions",
+      "Powered by Jonas"
+    ]
+  },
+  {
+    "id": 106646,
+    "title": "The Wolf of Wall Street",
+    "release_date": "2013-12-25",
+    "budget": 100000000,
+    "revenue": 407038432,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "popularity": 20.5095,
+    "vote_average": 8.026,
+    "runtime": 180,
+    "production_companies": [
+      "Red Granite Pictures",
+      "Appian Way",
+      "Sikelia Productions",
+      "EMJAG Productions"
+    ]
+  },
+  {
+    "id": 1071585,
+    "title": "M3GAN 2.0",
+    "release_date": "2025-06-25",
+    "budget": 25000000,
+    "revenue": 39085942,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "popularity": 21.6051,
+    "vote_average": 7.375,
+    "runtime": 120,
+    "production_companies": [
+      "Blumhouse Productions",
+      "Atomic Monster",
+      "Divide / Conquer"
+    ]
+  },
+  {
+    "id": 601,
+    "title": "E.T. the Extra-Terrestrial",
+    "release_date": "1982-06-11",
+    "budget": 10500000,
+    "revenue": 797307407,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "popularity": 28.1932,
+    "vote_average": 7.51,
+    "runtime": 115,
+    "production_companies": [
+      "Universal Pictures",
+      "Amblin Entertainment"
+    ]
+  },
+  {
+    "id": 674,
+    "title": "Harry Potter and the Goblet of Fire",
+    "release_date": "2005-11-16",
+    "budget": 150000000,
+    "revenue": 895921036,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "popularity": 21.5802,
+    "vote_average": 7.8,
+    "runtime": 157,
+    "production_companies": [
+      "Warner Bros. Pictures",
+      "Heyday Films",
+      "Patalex IV Productions"
+    ]
+  },
+  {
+    "id": 482600,
+    "title": "Japanese Mom",
+    "release_date": "2017-02-09",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "popularity": 21.5564,
+    "vote_average": 6.6,
+    "runtime": 91,
+    "production_companies": []
+  },
+  {
+    "id": 299536,
+    "title": "Avengers: Infinity War",
+    "release_date": "2018-04-25",
+    "budget": 300000000,
+    "revenue": 2052415039,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "popularity": 22.0512,
+    "vote_average": 8.236,
+    "runtime": 149,
+    "production_companies": [
+      "Marvel Studios"
+    ]
+  },
+  {
+    "id": 1396371,
+    "title": "Les irresponsables",
+    "release_date": "2025-07-24",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "popularity": 17.4783,
+    "vote_average": 5.0,
+    "runtime": 93,
+    "production_companies": [
+      "Arcadia Motion Pictures",
+      "Afrodita Audiovisual, A.I.E."
+    ]
+  },
+  {
+    "id": 950396,
+    "title": "The Gorge",
+    "release_date": "2025-02-13",
+    "budget": 70000000,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "popularity": 19.8172,
+    "vote_average": 7.671,
+    "runtime": 128,
+    "production_companies": [
+      "Skydance Media",
+      "Crooked Highway",
+      "Apple Studios"
+    ]
+  },
+  {
+    "id": 1013495,
+    "title": "Late Winter",
+    "release_date": "2022-08-18",
+    "budget": 340,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 19.301,
+    "vote_average": 2.0,
+    "runtime": 21,
+    "production_companies": [
+      "Escuela de cine del Uruguay"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "The Lord of the Rings: The Return of the King",
+    "release_date": "2003-12-17",
+    "budget": 94000000,
+    "revenue": 1118888979,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "popularity": 21.766,
+    "vote_average": 8.491,
+    "runtime": 201,
+    "production_companies": [
+      "New Line Cinema",
+      "WingNut Films",
+      "The Saul Zaentz Company"
+    ]
+  },
+  {
+    "id": 75656,
+    "title": "Now You See Me",
+    "release_date": "2013-05-29",
+    "budget": 75000000,
+    "revenue": 351723989,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "popularity": 20.3609,
+    "vote_average": 7.333,
+    "runtime": 116,
+    "production_companies": [
+      "Summit Entertainment",
+      "K/O Paper Products",
+      "SOIXAN7E QUIN5E",
+      "See Me Louisiana"
+    ]
+  },
+  {
+    "id": 764523,
+    "title": "The Visitor",
+    "release_date": "2022-06-11",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 19.1151,
+    "vote_average": 4.0,
+    "runtime": 85,
+    "production_companies": [
+      "CQ Films",
+      "Empatia Cinema",
+      "Cimarr\u00f3n Cine"
+    ]
+  },
+  {
+    "id": 748881,
+    "title": "Other special desires",
+    "release_date": "1983-05-14",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance"
+    ],
+    "popularity": 22.8848,
+    "vote_average": 5.0,
+    "runtime": 88,
+    "production_companies": [
+      "La Idea International S.r.l."
+    ]
+  },
+  {
+    "id": 1081208,
+    "title": "The Dogs",
+    "release_date": "2025-06-13",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "popularity": 19.5467,
+    "vote_average": 6.74,
+    "runtime": 97,
+    "production_companies": [
+      "Wild Media Entertainment",
+      "2ofaMind Productions"
+    ]
+  },
+  {
+    "id": 986056,
+    "title": "Thunderbolts*",
+    "release_date": "2025-04-30",
+    "budget": 180000000,
+    "revenue": 382436917,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "popularity": 20.8997,
+    "vote_average": 7.311,
+    "runtime": 127,
+    "production_companies": [
+      "Marvel Studios",
+      "Kevin Feige Productions"
+    ]
+  },
+  {
+    "id": 672,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "release_date": "2002-11-13",
+    "budget": 100000000,
+    "revenue": 876688482,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "popularity": 19.9336,
+    "vote_average": 7.705,
+    "runtime": 161,
+    "production_companies": [
+      "Warner Bros. Pictures",
+      "Heyday Films",
+      "1492 Pictures",
+      "MIRACLE Productions"
+    ]
+  },
+  {
+    "id": 1267905,
+    "title": "The Roses",
+    "release_date": "2025-08-27",
+    "budget": 30600000,
+    "revenue": 51498093,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "popularity": 19.2343,
+    "vote_average": 6.752,
+    "runtime": 105,
+    "production_companies": [
+      "Searchlight Pictures",
+      "South of the River Pictures",
+      "SunnyMarch",
+      "Delirious Media"
+    ]
+  },
+  {
+    "id": 1267319,
+    "title": "Mantis",
+    "release_date": "2025-09-26",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "popularity": 19.6329,
+    "vote_average": 6.245,
+    "runtime": 113,
+    "production_companies": [
+      "See \u00c1t Film"
+    ]
+  },
+  {
+    "id": 1580234,
+    "title": "Akin Ang Gabi",
+    "release_date": "2025-11-21",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "popularity": 19.7959,
+    "vote_average": 0.0,
+    "runtime": 70,
+    "production_companies": [
+      "Vivamax",
+      "Reel to Reel Studios"
+    ]
+  },
+  {
+    "id": 1245347,
+    "title": "Twinless",
+    "release_date": "2025-09-04",
+    "budget": 2000000,
+    "revenue": 1390057,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "popularity": 19.8257,
+    "vote_average": 7.2,
+    "runtime": 100,
+    "production_companies": [
+      "TPC",
+      "Permut Presentations",
+      "Backyard Plane"
+    ]
+  },
+  {
+    "id": 145341,
+    "title": "Colonel Kwiatkowski",
+    "release_date": "1996-05-10",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "History"
+    ],
+    "popularity": 20.1764,
+    "vote_average": 6.7,
+    "runtime": 123,
+    "production_companies": [
+      "Ikam",
+      "Telewizja Polska",
+      "Agencja Produkcji Filmowej"
+    ]
+  },
+  {
+    "id": 360920,
+    "title": "The Grinch",
+    "release_date": "2018-11-08",
+    "budget": 75000000,
+    "revenue": 508600000,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation"
+    ],
+    "popularity": 20.5583,
+    "vote_average": 6.872,
+    "runtime": 85,
+    "production_companies": [
+      "Illumination",
+      "Dr. Seuss Enterprises",
+      "Universal Animation Studios"
+    ]
+  },
+  {
+    "id": 1519168,
+    "title": "The Jester 2",
+    "release_date": "2025-09-15",
+    "budget": 0,
+    "revenue": 146237,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Crime"
+    ],
+    "popularity": 18.675,
+    "vote_average": 6.2,
+    "runtime": 87,
+    "production_companies": [
+      "Traverse Terror",
+      "Epic Pictures"
+    ]
+  },
+  {
+    "id": 1233413,
+    "title": "Sinners",
+    "release_date": "2025-04-16",
+    "budget": 90000000,
+    "revenue": 365878513,
+    "genres": [
+      "Horror",
+      "Action",
+      "Thriller"
+    ],
+    "popularity": 21.9556,
+    "vote_average": 7.508,
+    "runtime": 138,
+    "production_companies": [
+      "Warner Bros. Pictures",
+      "Proximity Media",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 1084199,
+    "title": "Companion",
+    "release_date": "2025-01-22",
+    "budget": 10000000,
+    "revenue": 36809101,
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "popularity": 22.0298,
+    "vote_average": 7.044,
+    "runtime": 97,
+    "production_companies": [
+      "BoulderLight Pictures",
+      "New Line Cinema",
+      "Vertigo Entertainment",
+      "Subconscious",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 109445,
+    "title": "Frozen",
+    "release_date": "2013-11-20",
+    "budget": 150000000,
+    "revenue": 1274219009,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "popularity": 19.5948,
+    "vote_average": 7.2,
+    "runtime": 102,
+    "production_companies": [
+      "Walt Disney Animation Studios"
+    ]
+  },
+  {
+    "id": 673,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "release_date": "2004-05-31",
+    "budget": 130000000,
+    "revenue": 789804554,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "popularity": 19.5288,
+    "vote_average": 8.011,
+    "runtime": 141,
+    "production_companies": [
+      "Warner Bros. Pictures",
+      "1492 Pictures",
+      "Heyday Films",
+      "P of A Productions"
+    ]
+  },
+  {
+    "id": 808,
+    "title": "Shrek",
+    "release_date": "2001-05-18",
+    "budget": 60000000,
+    "revenue": 488628188,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "popularity": 19.8512,
+    "vote_average": 7.754,
+    "runtime": 90,
+    "production_companies": [
+      "Pacific Data Images",
+      "DreamWorks Animation",
+      "DreamWorks Pictures"
+    ]
+  },
+  {
+    "id": 502356,
+    "title": "The Super Mario Bros. Movie",
+    "release_date": "2023-04-05",
+    "budget": 100000000,
+    "revenue": 1362000000,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "popularity": 20.2658,
+    "vote_average": 7.603,
+    "runtime": 93,
+    "production_companies": [
+      "Universal Pictures",
+      "Illumination",
+      "Nintendo"
+    ]
+  },
+  {
+    "id": 1086260,
+    "title": "The Astronaut",
+    "release_date": "2025-09-26",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Thriller"
+    ],
+    "popularity": 26.5738,
+    "vote_average": 5.8,
+    "runtime": 90,
+    "production_companies": [
+      "Fuller Media",
+      "The Wonder Company",
+      "Wild Atlantic Pictures"
+    ]
+  },
+  {
+    "id": 1151031,
+    "title": "Bring Her Back",
+    "release_date": "2025-05-28",
+    "budget": 15000000,
+    "revenue": 39123752,
+    "genres": [
+      "Horror"
+    ],
+    "popularity": 18.8398,
+    "vote_average": 7.418,
+    "runtime": 104,
+    "production_companies": [
+      "Causeway Films",
+      "Blue Bear",
+      "Salmira Productions",
+      "A24",
+      "South Australian Film Corporation"
+    ]
+  },
+  {
+    "id": 1208348,
+    "title": "Rental Family",
+    "release_date": "2025-11-20",
+    "budget": 0,
+    "revenue": 3336147,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "popularity": 18.6531,
+    "vote_average": 7.3,
+    "runtime": 110,
+    "production_companies": [
+      "Searchlight Pictures",
+      "Sight Unseen Pictures",
+      "Domo Arigato Productions"
+    ]
+  },
+  {
+    "id": 1241634,
+    "title": "Saiyaara",
+    "release_date": "2025-07-18",
+    "budget": 5500000,
+    "revenue": 63539300,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ],
+    "popularity": 21.0395,
+    "vote_average": 6.354,
+    "runtime": 150,
+    "production_companies": [
+      "Yash Raj Films"
+    ]
+  }
+]
